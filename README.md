@@ -19,6 +19,11 @@ Taxation · Legal Compliances · Accounting, Tax & Payroll · Risk Advisory & Co
 - **2,200+** CAs trained under ICAI's national AI initiative
 - 🏅 NIRC of ICAI Award — Outstanding Speaker
 
+### Recent Projects
+| Project | Description |
+|---------|-------------|
+| [AayDocCapio](http://download.aaydoccapio.com/) | Bulk download Form 26AS, AIS & TIS from the Income Tax e-Filing portal for multiple clients in one click |
+
 ### Workshops
 | Topic | Status |
 |-------|--------|
